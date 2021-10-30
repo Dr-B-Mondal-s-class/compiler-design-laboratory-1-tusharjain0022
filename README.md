@@ -343,7 +343,7 @@ Hello, I'm <b>Tushar Jain</b> (Reg no. - 2019UGCS001R) and this repository conta
 
 7. Lab 7:
 
-    1. Problem 7.1: WAP to count no. of characters, whitespace,tabs and digits in the given input file.
+    1. Problem 7.1: WAP to count no. of characters, whitespace,tabs and digits in the given input file.<br>
        Date - 17/09/2021<br>
        Source Code - [link](./Lab%207/count_char_from_inputfile/count_char_from_inputfile.l) <br>
        Input (text file) - [link](./Lab%207/count_char_from_inputfile/input.txt) <br>
@@ -364,7 +364,7 @@ Hello, I'm <b>Tushar Jain</b> (Reg no. - 2019UGCS001R) and this repository conta
         Other Characters: 14
         ```
 
-    2. Problem 7.2: WAP to count no. of lexemes in the given input file.
+    2. Problem 7.2: WAP to count no. of lexemes in the given input file.<br>
        Date - 17/09/2021<br>
        Source Code - [link](./Lab%207/count_lexemes_from_file/count_lexemes_from_file.l) <br>
        Input (text file) - [link](./Lab%207/count_lexemes_from_file/input.txt) <br>
@@ -383,7 +383,7 @@ Hello, I'm <b>Tushar Jain</b> (Reg no. - 2019UGCS001R) and this repository conta
         No. of operators=3
         ```
 
-    3. Problem 7.3: WAP to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.
+    3. Problem 7.3: WAP to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.<br>
        Date - 17/09/2021<br>
        Source Code - [link](./Lab%207/remove_ws_tab_newline_from_file/remove_from_file.l) <br>
        Input (text file) - [link](./Lab%207/remove_ws_tab_newline_from_file/input.txt) <br>
@@ -396,4 +396,56 @@ Hello, I'm <b>Tushar Jain</b> (Reg no. - 2019UGCS001R) and this repository conta
 
         Sample Output:
         int a = 10 + 3;print(a);
+        ```
+
+8. Lab 8:
+
+    1. Problem 8.1: WAP using Lex and YACC to test installation of yacc.<br>
+       Date - 27/09/2021<br>
+       Lex Source Code - [link](./Lab%208/hello_world/hello_world.l) <br>
+       Yacc Source Code - [link](./Lab%208/hello_world/hello_world.y) <br>
+       Output (screenshot) - [link](./Lab%208/hello_world/output.png) <br>
+
+        ```
+        Sample Input:
+        hi
+        bye
+
+        Sample Output:
+        Hello World !
+        Bye World !
+        ```
+
+9. Lab 9:
+
+    1. Problem 9.1: WAP using Lex and YACC to check whether given string is Palindrome or Not.<br>
+       Date - 2/10/2021<br>
+       Lex Source Code - [link](./Lab%209/palindrome/palindrome.l) <br>
+       Yacc Source Code - [link](./Lab%209/palindrome/palindrome.y) <br>
+       Output (screenshot) - [link](./Lab%209/palindrome/output.png) <br>
+
+        ```
+        Sample Input:
+        Tushar
+        abcdcba
+
+        Sample Output:
+        not a palindrome: Tushar
+        It's a palindrome: abcdcba
+        ```
+
+    2. Problem 9.2: WAP using Lex and YACC which accept strings that starts and ends with 0 or 1.<br>
+       Date - 2/10/2021<br>
+       Lex Source Code - [link](./Lab%209/zero_one/zero_one.l) <br>
+       Yacc Source Code - [link](./Lab%209/zero_one/zero_one.y) <br>
+       Output (screenshot) - [link](./Lab%209/zero_one/output.png) <br>
+
+        ```
+        Sample Input:
+        10000
+        10Tushar
+
+        Sample Output:
+        Accepted !
+        Rejected !
         ```
