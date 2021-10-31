@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Hello, I'm <b>Tushar Jain</b> (Reg no. - 2019UGCS001R) and this repository contain my Lab work and Assignments for the subject <b>Compiler Design</b> of the 5th semester of my B.Tech course at [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/).
+Hello, I'm <b>Tushar Jain</b> (Reg no. - 2019UGCS001R) and this repository contain my Lab work and Assignments for the subject <b>Compiler Design</b> of the 5th semester of my B.Tech course at [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/).</br>
+#### Submitted to [Prof. Bhaskar Mondal](https://github.com/bhaskarfx) 
 ![iiit ranchi logo](iiitranchilogo.png)
 
 ## Get Started!
